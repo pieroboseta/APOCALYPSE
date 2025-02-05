@@ -6,37 +6,41 @@ The goal of this repository is to provide resources that will help individuals r
 
 ## 📖 Categories  
 
-1. **Knowledge** - General knowledge books and encyclopedias.  
-2. **Languages** - Books on learning languages and improving communication skills.  
-3. **Survival** - Books on survival tactics, first aid, and preparing for emergencies.  
-4. **Science** - Books on various scientific fields, including biology, chemistry, physics, etc.
+### 1️⃣ Knowledge  
+Books that provide general knowledge, including guides and encyclopedias.  
+
+- [Title of Book 1](#)  
+- [Title of Book 2](#)  
+- [Title of Book 3](#)
+
+### 2️⃣ Languages  
+Language learning books, from beginner to advanced.  
+
+- [Title of Book 1](#)  
+- [Title of Book 2](#)  
+- [Title of Book 3](#)
+
+### 3️⃣ Survival  
+Books that cover survival tactics, first aid, and preparing for disaster scenarios.  
+
+- [Title of Book 1](#)  
+- [Title of Book 2](#)  
+- [Title of Book 3](#)
+
+### 4️⃣ Science  
+Scientific books and textbooks on subjects like physics, biology, chemistry, and more.  
+
+- [Title of Book 1](#)  
+- [Title of Book 2](#)  
+- [Title of Book 3](#)
 
 ---
 
-## 🚀 How to Use  
-
-Browse through the categories and click on the book titles to access downloadable links. Feel free to add more books if you have useful resources to share!  
-
-To add a new book:  
-1. Fork this repository.  
-2. Edit the README.md file to add a new book title and corresponding download link.  
-3. Submit a pull request with your changes.  
+## 📜 Contribution Guidelines  
+If you want to contribute to this repository and share useful resources, feel free to fork the repository and add more books.  
+Just make sure the books are open-source or legally shareable.  
 
 ---
 
-## ⚖️ Legal Notice  
-
-**Important Disclaimer**:  
-This repository **does not** host or store any of the PDF files linked here. The links provided point to resources publicly available on the internet.  
-I am **not** the owner of any of the content linked in this repository, and I am **not associated** with the creators or distributors of these resources.  
-I do not take responsibility for the accuracy or legality of the content or the links. It is the responsibility of the user to verify that the content is legally distributed and does not violate any copyright laws.
-
----
-
-## 🌍 Join the Community  
-If you would like to contribute to this repository, or if you have suggestions for additional books, please open an issue or submit a pull request. Let's work together to make this resource as comprehensive as possible!  
-
----
-
-## 📜 Credits  
-Special thanks to all contributors who have shared valuable resources.  
+## 💬 Contact  
+If you have any questions or suggestions, feel free to open an issue in the repository.  
