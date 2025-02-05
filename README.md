@@ -134,4 +134,4 @@ If you would like to contribute to this repository, or if you have suggestions f
 Special thanks to all contributors who have shared valuable resources.
 
 ## 📏 Sample 
-- [Title of Book 1](#) [Author]
+**- [Title of Book](link) [Author]**
