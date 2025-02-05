@@ -54,7 +54,7 @@
 **Scientific books and textbooks on subjects like physics, biology, chemistry, and more.** 
 
 ### Psychology
-**Taken by: EbookFoundation / free-science-books**
+**Taken by: EbookFoundation / free-science-books**  
 Link: https://github.com/EbookFoundation/free-science-books/blob/master/free-science-books.md?plain=1
 
 - [Computational Cognitive Neuroscience](https://github.com/CompCogNeuro/ed4) [Randall C. O’Reilly, Yuko Munakata, Michael J. Frank, Thomas E. Hazy]
@@ -75,7 +75,7 @@ Link: https://github.com/EbookFoundation/free-science-books/blob/master/free-sci
 
 
 ### Mathematics
-**Taken By: Rafiquzzaman420 / Math-Books**
+**Taken By: Rafiquzzaman420 / Math-Books**  
 Link: https://github.com/Rafiquzzaman420/Math-Books/tree/main
 
 - [A Mathematical Introduction to Logic, 2nd Edition](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Herbert B. Enderton]
@@ -134,4 +134,4 @@ If you would like to contribute to this repository, or if you have suggestions f
 Special thanks to all contributors who have shared valuable resources.
 
 ## 📏 Sample 
-**- [Title of Book](link) [Author]**
+`- [Title of Book](link) [Author]`
