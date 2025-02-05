@@ -54,7 +54,7 @@
 **Scientific books and textbooks on subjects like physics, biology, chemistry, and more.** 
 
 ### Psychology
-**Taken by: EbookFoundation / free-science-books**
+Taken by: EbookFoundation / free-science-books
 Link: https://github.com/EbookFoundation/free-science-books/blob/master/free-science-books.md?plain=1
 -----
 
@@ -75,7 +75,7 @@ Link: https://github.com/EbookFoundation/free-science-books/blob/master/free-sci
 * [Web Vision](https://webvision.med.utah.edu) - Helga Kolb, Ralph Nelson, Eduardo Fernandez, and Bryan Jones
 
 ### Mathematics
-**Taken By: Rafiquzzaman420 / Math-Books**
+Taken By: Rafiquzzaman420 / Math-Books
 Link: https://github.com/Rafiquzzaman420/Math-Books/tree/main
 -----
 
