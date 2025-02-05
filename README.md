@@ -73,7 +73,7 @@
 
 
 ---
-The science section was inspired and made possible by @EbookFoundation / free-science-books, a huge thanks to them!
+* The Science section was inspired by research and borrowed by **EbookFoundation** / free-science-books, a huge thanks and full credit to them for making this section possible!
 Link here: https://github.com/EbookFoundation/free-science-books
 
 ## 📜 Contribution Guidelines  
