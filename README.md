@@ -10,8 +10,8 @@ A curated collection of essential knowledge for survival, medicine, science, his
 
 ### 1️⃣ Knowledge  
 Books that provide general knowledge, including guides and encyclopedias.  
-- [Title of Book 1](#)  
-- [Title of Book 2](#)  
+- [Dictionary of Symbols](https://ia801204.us.archive.org/35/items/DictionaryOfSymbols/Dictionary%20of%20Symbols.pdf) [J.E.Cirlot]
+- [Encyclopedia of Scientiﬁc Principles, Laws, and Theories 2](https://annas-archive.org/md5/78a91d25c4c627a2bdd2ddca6563d609) [Robert E. Krebs]
 - [Title of Book 3](#)
 
 ### 2️⃣ Languages  
