@@ -6,7 +6,7 @@
 
 ---
 
-## 📖 Categories
+## 🗂️ All Categories
 
 ### 🧠 Knowledge  
 Books that provide general knowledge, including guides and encyclopedias.  
@@ -24,11 +24,15 @@ Books that provide general knowledge, including guides and encyclopedias.
 - [The knowledge: how to rebuild our world from scratch](https://annas-archive.org/md5/f49dff7c0bad04d94e26b026d10658a4) [Dartnell, Lewis]
 - [The World Book Encyclopedia - A 1](https://annas-archive.org/md5/e66dfbd8dbf2da4982ada526140ad8fe) [John Morris Jones]
 
+
 ### 🗪 Languages  
 Language learning books and Dictionaries.  
-- [Title of Book 1](#)  
-- [Title of Book 2](#)  
-- [Title of Book 3](#)
+- [The Oxford dictionary of current English](https://annas-archive.org/md5/f1a8c0bcdde3731b841906fd12c619be) [Della Thompson]
+- [Visual English dictionary](https://annas-archive.org/md5/6c1266bdad9b4771fe45fd87ab82048e) [Jean-Claude Corbeil, Ariane Archambault]
+- [Visual dictionary in 5 languages: English, French, German, Spanish, Italian](https://annas-archive.org/md5/3aaa6deb435dad3bf3ceeefb6bf644a3) [De Agostini] 
+- [An Historical Albanian-English Dictionary](https://annas-archive.org/md5/023ad6559bb79bb5d098a7e676405db3) [Mann S.E.] 
+- [German English Bilingual Visual Dictionary](https://annas-archive.org/md5/1a18d4f7d0ccd22233a967e07aba71ec) [DK]
+
 
 ### ⚔️ Survival  
 Books that cover survival tactics, first aid, and preparing for disaster scenarios.  
