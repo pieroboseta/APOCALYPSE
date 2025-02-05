@@ -15,7 +15,7 @@ Books that provide general knowledge, including guides and encyclopedias.
 - [Title of Book 3](#)
 
 ### 2️⃣ Languages  
-Language learning books, from beginner to advanced.  
+Language learning books and Dictionaries.  
 - [Title of Book 1](#)  
 - [Title of Book 2](#)  
 - [Title of Book 3](#)
