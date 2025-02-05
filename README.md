@@ -78,34 +78,31 @@ Link: https://github.com/EbookFoundation/free-science-books/blob/master/free-sci
 **Taken By: Rafiquzzaman420 / Math-Books**
 Link: https://github.com/Rafiquzzaman420/Math-Books/tree/main
 
-
-- [A Mathematical Introduction to Logic, 2nd Edition.pdf](https://github.com/Rafiquzzaman420/Math-Books/tree/main)
-- [A Mathematical Introduction to Mathematical Logic.pdf](https://github.com/Rafiquzzaman420/Math-Books/tree/main)
-- [Abstract Algebra.pdf](https://github.com/Rafiquzzaman420/Math-Books/tree/main)
-- [An Introduction to Probability Theory and Its Applications.pdf](https://github.com/Rafiquzzaman420/Math-Books/tree/main)
-- [Basic Mathematics - Serge Lang.pdf](https://github.com/Rafiquzzaman420/Math-Books/tree/main)
-- [Calculus - Michael Spivak.pdf](https://github.com/Rafiquzzaman420/Math-Books/tree/main)
-- [Calculus Essentials For Dummies.pdf](https://github.com/Rafiquzzaman420/Math-Books/tree/main)
-- [Calculus II For Dummies.pdf](https://github.com/Rafiquzzaman420/Math-Books/tree/main)
-- [Calculus Practice Problems For Dummies.pdf](https://github.com/Rafiquzzaman420/Math-Books/tree/main)
-- [Calculus by Michael Spivak.pdf](https://github.com/Rafiquzzaman420/Math-Books/tree/main)
-- [Calculus made easy.pdf](https://github.com/Rafiquzzaman420/Math-Books/tree/main)
-- [Categories for the working mathematician.pdf](https://github.com/Rafiquzzaman420/Math-Books/tree/main)
-- [Classi set theory for guided independent study.pdf](https://github.com/Rafiquzzaman420/Math-Books/tree/main)
-- [Elementary Number Theory (7th ed.) by David M. Burton.pdf](https://github.com/Rafiquzzaman420/Math-Books/tree/main)
-- [Elementary number theory -- Gareth Jones.pdf](https://github.com/Rafiquzzaman420/Math-Books/tree/main)
-- [Encyclopedia Of Mathematics.pdf](https://github.com/Rafiquzzaman420/Math-Books/tree/main)
-- [Introduction to Topology and Modern Analysis.pdf](https://github.com/Rafiquzzaman420/Math-Books/tree/main)
-- [Introductory statistics -- 10th edition.pdf](https://github.com/Rafiquzzaman420/Math-Books/tree/main)
-- [Linear Algebra Done Right.pdf](https://github.com/Rafiquzzaman420/Math-Books/tree/main)
-- [Principles_of_Mathematical_Analysis-Rudin.pdf](https://github.com/Rafiquzzaman420/Math-Books/tree/main)
-- [Technical Math For Dummies.pdf](https://github.com/Rafiquzzaman420/Math-Books/tree/main)
-- [The Calculus Lifesaver All the Tools You Need to Excel at Calculus.pdf](https://github.com/Rafiquzzaman420/Math-Books/tree/main)
-- [The Four Pillars of Geometry.pdf](https://github.com/Rafiquzzaman420/Math-Books/tree/main)
-- [The Princeton companion to mathematics.pdf](https://github.com/Rafiquzzaman420/Math-Books/tree/main)
-- [Trigonometry Workbook For Dummies.pdf](https://github.com/Rafiquzzaman420/Math-Books/tree/main)
-
-
+- [A Mathematical Introduction to Logic, 2nd Edition](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Herbert B. Enderton]
+- [A Mathematical Introduction to Mathematical Logic](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Stephen G. Simpson]
+- [Abstract Algebra](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [David S. Dummit, Richard M. Foote]
+- [An Introduction to Probability Theory and Its Applications](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [William Feller]
+- [Basic Mathematics - Serge Lang](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Serge Lang]
+- [Calculus - Michael Spivak](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Michael Spivak]
+- [Calculus Essentials For Dummies](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Mark Ryan]
+- [Calculus II For Dummies](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Mark Ryan]
+- [Calculus Practice Problems For Dummies](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Mark Ryan]
+- [Calculus by Michael Spivak](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Michael Spivak]
+- [Calculus made easy](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Silvanus P. Thompson]
+- [Categories for the working mathematician](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Saunders Mac Lane]
+- [Classi set theory for guided independent study](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [James M. Henle]
+- [Elementary Number Theory (7th ed.) by David M. Burton](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [David M. Burton]
+- [Elementary number theory -- Gareth Jones](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Gareth Jones]
+- [Encyclopedia Of Mathematics](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [M. Hazewinkel (Editor)]
+- [Introduction to Topology and Modern Analysis](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [George F. Simmons]
+- [Introductory statistics -- 10th edition](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Murray R. Spiegel]
+- [Linear Algebra Done Right](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Sheldon Axler]
+- [Principles_of_Mathematical_Analysis-Rudin](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Walter Rudin]
+- [Technical Math For Dummies](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Mark Ryan]
+- [The Calculus Lifesaver All the Tools You Need to Excel at Calculus](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Adrian Banner]
+- [The Four Pillars of Geometry](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [John Stillwell]
+- [The Princeton companion to mathematics](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Timothy Gowers, June Barrow-Green, Imre Leader (Editors)]
+- [Trigonometry Workbook For Dummies](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Mark Ryan]
 
 
 ---
