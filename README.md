@@ -53,7 +53,7 @@
 ## 🔬 Science  
 **Scientific books and textbooks on subjects like physics, biology, chemistry, and more.** 
 
-## Psychology
+### Psychology
 
 * [Computational Cognitive Neuroscience](https://github.com/CompCogNeuro/ed4) - Randall C. O’Reilly Yuko Munakata Michael J. Frank Thomas E. Hazy
 * [ePsych](https://epsych.msstate.edu) - Gary L. Bradshaw
