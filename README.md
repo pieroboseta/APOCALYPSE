@@ -73,6 +73,7 @@
 
 
 ---
+The science section was inspired and made possible by @EbookFoundation free-science-books
 
 ## 📜 Contribution Guidelines  
 
