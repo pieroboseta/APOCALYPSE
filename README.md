@@ -8,25 +8,35 @@ A curated collection of essential knowledge for survival, medicine, science, his
 
 ## 📖 Categories
 
-### 1️⃣ Knowledge  
+### 🧠 Knowledge  
 Books that provide general knowledge, including guides and encyclopedias.  
 - [Dictionary of Symbols](https://ia801204.us.archive.org/35/items/DictionaryOfSymbols/Dictionary%20of%20Symbols.pdf) [J.E.Cirlot]
 - [Encyclopedia of Scientiﬁc Principles, Laws, and Theories 2](https://annas-archive.org/md5/78a91d25c4c627a2bdd2ddca6563d609) [Robert E. Krebs]
-- [Title of Book 3](#)
+- [How Everything Works From Brain Cells to Black Holes](https://annas-archive.org/md5/b1e7682716f099a08a877fdaff038fe4) [DK]
+- [How to Invent Everything](https://annas-archive.org/md5/37007125dde7bea8126b8c1ca3b0f8a5) [Ryan_North]
+- [Morse code & Phonetics](https://www.ndblist.info/index_htm_files/phoneticmorse.pdf) [NDB List 2015]
+- [Roman Numerals Chart](https://assets.ltkcontent.com/files/roman-numerals-chart.pdf) [Your Dictionary]
+- [Science! Science as You've Never Seen It Before](https://annas-archive.org/md5/df47cb4371e93db2bd41a3832ddc411e) [Dorling Kindersley]
+- [Student World Atlas](https://annas-archive.org/md5/048aaae14edd56fb4df56c2324dbacb3) [Malestorm]
+- [The animal atlas : a pictorial guide to the world's wildlife.](https://annas-archive.org/md5/5d32399831a5c70a5e9ae9716638918b) [Kenneth Lilly]
+- [The Bird Atlas: A Pictorial Guide to the World's Birdlife](https://annas-archive.org/md5/b33efbf21fb29aa48452e0a3b9cb2875) [Barbara Taylor]
+- [The Holy Bible](https://csbible.com/wp-content/uploads/2018/03/CSB_Pew_Bible_2nd_Printing.pdf) [Christian Standart Bible]
+- [The knowledge: how to rebuild our world from scratch](https://annas-archive.org/md5/f49dff7c0bad04d94e26b026d10658a4) [Dartnell, Lewis]
+- [The World Book Encyclopedia - A 1](https://annas-archive.org/md5/e66dfbd8dbf2da4982ada526140ad8fe) [John Morris Jones]
 
-### 2️⃣ Languages  
+### 🗪 Languages  
 Language learning books and Dictionaries.  
 - [Title of Book 1](#)  
 - [Title of Book 2](#)  
 - [Title of Book 3](#)
 
-### 3️⃣ Survival  
+### ⚔️ Survival  
 Books that cover survival tactics, first aid, and preparing for disaster scenarios.  
 - [Title of Book 1](#)  
 - [Title of Book 2](#)  
 - [Title of Book 3](#)
 
-### 4️⃣ Science  
+### 🔬 Science  
 Scientific books and textbooks on subjects like physics, biology, chemistry, and more.  
 - [Title of Book 1](#)  
 - [Title of Book 2](#)  
