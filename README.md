@@ -91,7 +91,7 @@
 - [Archaeology, Anthropology, and Interstellar Communication (2014)](https://unglue.it/work/139785/) - Douglas A. Vakoch
 
 
-### 🧲 Pysics
+### 🧲 Physics
 
 - [A Text Book for High School Students Studying Physics](http://ftp.igh.cnrs.fr/pub/nongnu//fhsst/Physics_Grade_10-12.pdf) - FHSST Authors (PDF)
 - [An introduction to Physics](http://eacpe.org/content/uploads/2014/01/PHYSICS-101.pdf) - Pervez Hoodbhoy (PDF)
