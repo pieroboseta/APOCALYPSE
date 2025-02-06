@@ -107,6 +107,16 @@ Link: https://github.com/Rafiquzzaman420/Math-Books/tree/main
 
 ---
 
+## 💖 Support This Project
+
+If you find this project helpful, consider supporting its development! Your donation helps keep the project alive and improve it further.
+
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)]([https://www.paypal.com/donate?hosted_button_id=YOUR_PAYPAL_ID](https://paypal.me/pieroboseta?country.x=AL&locale.x=en_US))
+
+Every contribution is greatly appreciated! Thank you for your support. 🙌
+
+---
+
 ## 📜 Contribution Guidelines  
 
 If you want to contribute to this repository and share useful resources, feel free to fork the repository and add more books.  
