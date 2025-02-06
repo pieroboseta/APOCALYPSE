@@ -69,16 +69,16 @@
 
 ### 📐 Mathematics
 
-- [A Mathematical Introduction to Logic, 2nd Edition](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Herbert B. Enderton]
-- [Abstract Algebra](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [David S. Dummit, Richard M. Foote]
-- [An Introduction to Probability Theory and Its Applications](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [William Feller]
-- [Calculus - Michael Spivak](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Michael Spivak]
-- [Categories for the working mathematician](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Saunders Mac Lane]
-- [Elementary Number Theory (7th ed.) by David M. Burton](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [David M. Burton]
-- [Introduction to Topology and Modern Analysis](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [George F. Simmons]
-- [Linear Algebra Done Right](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Sheldon Axler]
-- [Principles_of_Mathematical_Analysis-Rudin](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Walter Rudin]
-- [The Princeton companion to mathematics](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Timothy Gowers, June Barrow-Green, Imre Leader (Editors)]
+- [A Mathematical Introduction to Logic, 2nd Edition]([https://github.com/Rafiquzzaman420/Math-Books/tree/main](https://github.com/Rafiquzzaman420/Math-Books/blob/main/A%20Mathematical%20Introduction%20to%20Logic%2C%202nd%20Edition.pdf)) [Herbert B. Enderton]
+- [Abstract Algebra]([https://github.com/Rafiquzzaman420/Math-Books/tree/main](https://github.com/Rafiquzzaman420/Math-Books/blob/main/Abstract%20Algebra.pdf)) [David S. Dummit, Richard M. Foote]
+- [An Introduction to Probability Theory and Its Applications]([https://github.com/Rafiquzzaman420/Math-Books/tree/main](https://github.com/Rafiquzzaman420/Math-Books/blob/main/An%20Introduction%20to%20Probability%20Theory%20and%20Its%20Applications.pdf)) [William Feller]
+- [Calculus - Michael Spivak]([https://github.com/Rafiquzzaman420/Math-Books/tree/main](https://github.com/Rafiquzzaman420/Math-Books/blob/main/Calculus%20-%20Michael%20Spivak.pdf)) [Michael Spivak]
+- [Categories for the working mathematician]([https://github.com/Rafiquzzaman420/Math-Books/tree/main](https://github.com/Rafiquzzaman420/Math-Books/blob/main/Categories%20for%20the%20working%20mathematician.pdf)) [Saunders Mac Lane]
+- [Elementary Number Theory (7th ed.) by David M. Burton]([https://github.com/Rafiquzzaman420/Math-Books/tree/main](https://github.com/Rafiquzzaman420/Math-Books/blob/main/Elementary%20Number%20Theory%20(7th%20ed.)%20by%20David%20M.%20Burton.pdf)) [David M. Burton]
+- [Introduction to Topology and Modern Analysis]([https://github.com/Rafiquzzaman420/Math-Books/tree/main](https://github.com/Rafiquzzaman420/Math-Books/blob/main/Introduction%20to%20Topology%20and%20Modern%20Analysis.pdf)) [George F. Simmons]
+- [Linear Algebra Done Right]([https://github.com/Rafiquzzaman420/Math-Books/tree/main](https://github.com/Rafiquzzaman420/Math-Books/blob/main/Linear%20Algebra%20Done%20Right.pdf)) [Sheldon Axler]
+- [Principles_of_Mathematical_Analysis-Rudin]([https://github.com/Rafiquzzaman420/Math-Books/tree/main](https://github.com/Rafiquzzaman420/Math-Books/blob/main/Principles_of_Mathematical_Analysis-Rudin.pdf)) [Walter Rudin]
+- [The Princeton companion to mathematics]([https://github.com/Rafiquzzaman420/Math-Books/tree/main](https://github.com/Rafiquzzaman420/Math-Books/blob/main/The%20Princeton%20companion%20to%20mathematics.pdf)) [Timothy Gowers, June Barrow-Green, Imre Leader (Editors)]
 
 
 
