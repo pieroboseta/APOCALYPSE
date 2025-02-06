@@ -104,7 +104,7 @@ Link: https://github.com/Rafiquzzaman420/Math-Books/tree/main
 - [The Princeton companion to mathematics](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Timothy Gowers, June Barrow-Green, Imre Leader (Editors)]
 - [Trigonometry Workbook For Dummies](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Mark Ryan]
 
-
+# ✨️More links coming tomorrow for way more subjects and information!
 ---
 
 ## 💖 Support This Project
