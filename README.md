@@ -53,7 +53,7 @@
 ## 🔬 Science  
 **Scientific books and textbooks on subjects like physics, biology, chemistry, and more.** 
 
-## ● Psychology
+### ● Psychology
 Taken by: EbookFoundation / free-science-books  
 Link: https://github.com/EbookFoundation/free-science-books/blob/master/free-science-books.md?plain=1
 
@@ -67,7 +67,7 @@ Link: https://github.com/EbookFoundation/free-science-books/blob/master/free-sci
 
 
 
-## ● Mathematics
+### ● Mathematics
 Taken By: Rafiquzzaman420 / Math-Books    
 Link: https://github.com/Rafiquzzaman420/Math-Books/tree/main
 
@@ -84,7 +84,7 @@ Link: https://github.com/Rafiquzzaman420/Math-Books/tree/main
 
 
 
-## ● Astronomy
+### ● Astronomy
 
 - [A Short History of Astronomy (1898)](https://ia601408.us.archive.org/16/items/shorthistoryofas025511mbp/shorthistoryofas025511mbp.pdf) - Arthur Berry (PDF)
 - [Astronomy (OpenStax)](https://openstax.org/details/books/astronomy) - Andrew Fraknoi et al. (PDF)
@@ -93,7 +93,7 @@ Link: https://github.com/Rafiquzzaman420/Math-Books/tree/main
 - [Archaeology, Anthropology, and Interstellar Communication (2014)](https://unglue.it/work/139785/) - Douglas A. Vakoch
 
 
-## ● Pysics
+### ● Pysics
 
 - [A Text Book for High School Students Studying Physics](http://ftp.igh.cnrs.fr/pub/nongnu//fhsst/Physics_Grade_10-12.pdf) - FHSST Authors (PDF)
 - [An introduction to Physics](http://eacpe.org/content/uploads/2014/01/PHYSICS-101.pdf) - Pervez Hoodbhoy (PDF)
@@ -107,7 +107,7 @@ Link: https://github.com/Rafiquzzaman420/Math-Books/tree/main
 - [The Feynman Lectures on Physics](http://feynmanlectures.caltech.edu) - Richard P. Feynmann
 
 
-## ● Chemistry
+### ● Chemistry
 
 - [A Dictionary of Chemistry (1777)](https://unglue.it/work/140195/) - Pierre Joseph Macquer and James Keir
 - [Biochemistry from a phenomenological point of view](http://www.louisbolk.org/downloads/1282.pdf) - Christa van Tellingen (PDF)
@@ -121,48 +121,48 @@ Link: https://github.com/Rafiquzzaman420/Math-Books/tree/main
 - [The Story of Alchemy and the Beginnings of Chemistry (1902)](https://www.gutenberg.org/ebooks/14218) - M. M. Pattison Muir
 
 
-## ● Geology
+### ● Geology
 
 - [An Introduction to Geology](http://opengeology.org/textbook/) - Chris Johnson, Matt Affolter, Paul Inkenbrandt, Cam Mosher
 - [Physical Geology (2019)](https://opentextbc.ca/physicalgeology2ed/) - Steven Earle (PDF)
 
 
-## ● Natural history
+### ● Natural history
 
 - [Selected Records of Reptiles and Amphibians from Kansas (1946)](https://www.gutenberg.org/ebooks/34554) - John Breukelman and Hobart Smith
 
 
-## ● Botany
+### ● Botany
 
 - [Beginners' Botany (1921)](http://ia801405.us.archive.org/5/items/beginners21west00bailuoft/beginners21west00bailuoft.pdf) - L.H. Bailey (PDF)
 
 
-## ● Zoology
+### ● Zoology
 
 - [Mammals of the Southwest Mountains and Mesas (1961)](https://www.gutenberg.org/ebooks/50822) - George Olin
 
 
-## ● Human anatomy
+### ● Human anatomy
 
 - [The Anatomy of the Human Peritoneum and Abdominal Cavity (1903)](https://www.gutenberg.org/ebooks/43350) - George S. Huntington 
 
 
-## ● Microbiology
+### ● Microbiology
 
 - [Microbiology](https://openstax.org/details/books/microbiology) - Nina Parker, Mark Schneegurt, Philip Lister et al. (PDF)
 
 
-## ● Library and Information Science
+### ● Library and Information Science
 
 - [Library and Information Science - Class XI](https://cbseacademic.nic.in/web_material/doc/2014/16_Library%20&%20Information%20Science%20Class%20XI.pdf) - CBSE (PDF)
 
 
-## ● Nursing
+### ● Nursing
 
 - [Nursing as Caring: A Model for Transforming Practice (1993)](https://www.gutenberg.org/ebooks/42988) - Boykin and Schoenhofer
 
 
-## ● Mechanical engineering and machinery (includes Energy Conservation)
+### ● Mechanical engineering and machinery (includes Energy Conservation)
 
 - [Climate Change and the Oil Industry (2003)](https://unglue.it/work/138838/) - Jon Birger Skjaerseth and Tora Skodvin
 - [Our Car as Power Plant (2014)](https://unglue.it/work/129373/) - Ad van Wijk and Leendert Verhoef 
@@ -170,7 +170,7 @@ Link: https://github.com/Rafiquzzaman420/Math-Books/tree/main
 - [Understanding the Global Energy Crisis (2014)](https://unglue.it/work/136212/) - Eugene D. Coyle and Richard A. Simmons
 
 
-## ● Chemical Technology
+### ● Chemical Technology
 
 - [Acids, Alkalis and Salts (1919)](https://www.gutenberg.org/ebooks/50552) - George Henry Joseph Adlam
 - [Creative Chemistry: Descriptive of Recent Achievements in the Chemical (1919)](https://www.gutenberg.org/ebooks/17149) - Edwin E. Slossan
