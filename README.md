@@ -58,20 +58,13 @@ Taken by: EbookFoundation / free-science-books
 Link: https://github.com/EbookFoundation/free-science-books/blob/master/free-science-books.md?plain=1
 
 - [Computational Cognitive Neuroscience](https://github.com/CompCogNeuro/ed4) [Randall C. O’Reilly, Yuko Munakata, Michael J. Frank, Thomas E. Hazy]
-- [ePsych](https://epsych.msstate.edu) [Gary L. Bradshaw]
-- [Instances of Cognition](https://www.crumplab.com/cognition/textbook) [Matthew J. Crump]
-- [Neural Networks - A Systematic Introduction](http://page.mi.fu-berlin.de/rojas/neural/) [Raul Rojas]
 - [Neuronal Dynamics: From single neurons to networks and models of cognition](https://neuronaldynamics.epfl.ch) [Wulfram Gerstner, Werner M. Kistler, Richard Naud, Liam Paninski]
-- [Neuroscience](https://www.bna.org.uk/static/uploads/resources/BNA_English.pdf) [British Neuroscience Association, European Dana Alliance for the Brain]
-- [Neuroscience Online](https://nba.uth.tmc.edu/neuroscience/) [John H. Byrne]
 - [Principles of Psychology and Neuroscience](https://principlesofpsych.org) [Randall C. O’Reilly]
-- [Probabilistic Models of Cognition](https://probmods.org) [Noah D. Goodman et al.]
-- [Psychology: An Introduction](https://www.psywww.com/intropsych) [Russell A. Dewey]
 - [Spiking Neuron Models Single Neurons, Populations, Plasticity](https://lcnwww.epfl.ch/gerstner/SPNM/) [Wulfram Gerstner, Werner M. Kistler]
-- [The Brain Facts Book](https://www.brainfacts.org/The-Brain-Facts-Book) 
-- [The Nervous System in Action](https://michaeldmann.net/The%20Nervous%20System%20In%20Action.html) [Michael D. Mann]
-- [The Psychology of Learning](https://www.psychologyoflearning.be) [Jan De Houwer, Sean Hughes]
-- [Web Vision](https://webvision.med.utah.edu) [Helga Kolb, Ralph Nelson, Eduardo Fernandez, Bryan Jones]
+- [The Brain Facts Book](https://www.brainfacts.org/The-Brain-Facts-Book)
+- [Neuroscience Online](https://nba.uth.tmc.edu/neuroscience/) [John H. Byrne]
+- [The Glands Regulating Personality (1922)](https://www.gutenberg.org/ebooks/10266) - Louis Berman
+
 
 
 ### ● Mathematics
@@ -79,30 +72,111 @@ Taken By: Rafiquzzaman420 / Math-Books
 Link: https://github.com/Rafiquzzaman420/Math-Books/tree/main
 
 - [A Mathematical Introduction to Logic, 2nd Edition](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Herbert B. Enderton]
-- [A Mathematical Introduction to Mathematical Logic](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Stephen G. Simpson]
 - [Abstract Algebra](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [David S. Dummit, Richard M. Foote]
 - [An Introduction to Probability Theory and Its Applications](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [William Feller]
-- [Basic Mathematics - Serge Lang](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Serge Lang]
 - [Calculus - Michael Spivak](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Michael Spivak]
-- [Calculus Essentials For Dummies](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Mark Ryan]
-- [Calculus II For Dummies](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Mark Ryan]
-- [Calculus Practice Problems For Dummies](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Mark Ryan]
-- [Calculus by Michael Spivak](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Michael Spivak]
-- [Calculus made easy](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Silvanus P. Thompson]
 - [Categories for the working mathematician](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Saunders Mac Lane]
-- [Classi set theory for guided independent study](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [James M. Henle]
 - [Elementary Number Theory (7th ed.) by David M. Burton](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [David M. Burton]
-- [Elementary number theory -- Gareth Jones](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Gareth Jones]
-- [Encyclopedia Of Mathematics](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [M. Hazewinkel (Editor)]
 - [Introduction to Topology and Modern Analysis](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [George F. Simmons]
-- [Introductory statistics -- 10th edition](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Murray R. Spiegel]
 - [Linear Algebra Done Right](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Sheldon Axler]
 - [Principles_of_Mathematical_Analysis-Rudin](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Walter Rudin]
-- [Technical Math For Dummies](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Mark Ryan]
-- [The Calculus Lifesaver All the Tools You Need to Excel at Calculus](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Adrian Banner]
-- [The Four Pillars of Geometry](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [John Stillwell]
 - [The Princeton companion to mathematics](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Timothy Gowers, June Barrow-Green, Imre Leader (Editors)]
-- [Trigonometry Workbook For Dummies](https://github.com/Rafiquzzaman420/Math-Books/tree/main) [Mark Ryan]
+
+
+
+### ● Astronomy
+
+- [A Short History of Astronomy (1898)](https://ia601408.us.archive.org/16/items/shorthistoryofas025511mbp/shorthistoryofas025511mbp.pdf) - Arthur Berry (PDF)
+- [Astronomy (OpenStax)](https://openstax.org/details/books/astronomy) - Andrew Fraknoi et al. (PDF)
+- [Hubble 25: A Quarter-Century of Discovery with the Hubble Space Telescope (2015)](https://unglue.it/work/145858/) - Dylan Steele
+- [The New Astronomy (1888)](https://unglue.it/work/482922/) - S. P. (Samuel Pierpont) Langley
+- [Archaeology, Anthropology, and Interstellar Communication (2014)](https://unglue.it/work/139785/) - Douglas A. Vakoch
+
+
+### ● Pysics
+
+- [A Text Book for High School Students Studying Physics](http://ftp.igh.cnrs.fr/pub/nongnu//fhsst/Physics_Grade_10-12.pdf) - FHSST Authors (PDF)
+- [An introduction to Physics](http://eacpe.org/content/uploads/2014/01/PHYSICS-101.pdf) - Pervez Hoodbhoy (PDF)
+- [Classical Mechanics](http://www.physics.rutgers.edu/ugrad/494/bookr03D.pdf) - Joel A. Shapiro (PDF)
+- [Conceptual Physics](https://www.lightandmatter.com/cp) - Benjamin Crowell (PDF)
+- [Fusion Physics](https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1562_web.pdf) - (PDF)
+- [Introduction to General Relativity](http://www.staff.science.uu.nl/~hooft101/lectures/genrel_2013.pdf) - Gerard ’t Hooft (PDF)
+- [Lecture Notes in Quantum Mechanics](https://physics.bgu.ac.il/~dcohen/ARCHIVE/qmc.pdf) - Doron Cohen (PDF)
+- [Modern Physics](https://www.lightandmatter.com/mod) - Benjamin Crowell (PDF)
+- [Physics Before and After Einstein](http://www.dmi.unipg.it/mamone/pubb/PBAE.pdf) - Marco Mamone Capria (PDF)
+- [The Feynman Lectures on Physics](http://feynmanlectures.caltech.edu) - Richard P. Feynmann
+
+
+### ● Chemistry
+
+- [A Dictionary of Chemistry (1777)](https://unglue.it/work/140195/) - Pierre Joseph Macquer and James Keir
+- [Biochemistry from a phenomenological point of view](http://www.louisbolk.org/downloads/1282.pdf) - Christa van Tellingen (PDF)
+- [Chemistry 2e](https://openstax.org/details/books/chemistry-2e) - Paul Flowers, Klaus Theopold, Richard Langley et al. (PDF)
+- [Chemistry: Atoms First 2e](https://openstax.org/details/books/chemistry-atoms-first-2e) - Paul Flowers, Edward J. Neth, William R. Robinson et al. (PDF)
+- [CK-12 Chemistry - Second Edition (2011)](https://unglue.it/work/140345/) - Sharon Bewick et al.
+- [Electrochemistry](https://unglue.it/work/488281/) - Mohammed A. A. Khalid
+- [From Vitamins to Baked Goods: Real Applications of Organic Chemistry (2012)](https://unglue.it/work/145870/) - Kieran Gallagher and Lizhi Fan
+- [Green Chemistry](https://unglue.it/work/488195/) - Mazaahir Kidwai, Neeraj Kumar Mishra
+- [Introduction to Chemistry](https://unglue.it/download_ebook/54777/) - Tracy Poulsen (PDF)
+- [The Story of Alchemy and the Beginnings of Chemistry (1902)](https://www.gutenberg.org/ebooks/14218) - M. M. Pattison Muir
+
+
+## ● Geology
+
+- [An Introduction to Geology](http://opengeology.org/textbook/) - Chris Johnson, Matt Affolter, Paul Inkenbrandt, Cam Mosher
+- [Physical Geology (2019)](https://opentextbc.ca/physicalgeology2ed/) - Steven Earle (PDF)
+
+
+## ● Natural history
+
+- [Selected Records of Reptiles and Amphibians from Kansas (1946)](https://www.gutenberg.org/ebooks/34554) - John Breukelman and Hobart Smith
+
+
+## ● Botany
+
+- [Beginners' Botany (1921)](http://ia801405.us.archive.org/5/items/beginners21west00bailuoft/beginners21west00bailuoft.pdf) - L.H. Bailey (PDF)
+
+
+## ● Zoology
+
+- [Mammals of the Southwest Mountains and Mesas (1961)](https://www.gutenberg.org/ebooks/50822) - George Olin
+
+
+## ● Human anatomy
+
+- [The Anatomy of the Human Peritoneum and Abdominal Cavity (1903)](https://www.gutenberg.org/ebooks/43350) - George S. Huntington 
+
+
+## ● Microbiology
+
+- [Microbiology](https://openstax.org/details/books/microbiology) - Nina Parker, Mark Schneegurt, Philip Lister et al. (PDF)
+
+
+## ● Library and Information Science
+
+- [Library and Information Science - Class XI](https://cbseacademic.nic.in/web_material/doc/2014/16_Library%20&%20Information%20Science%20Class%20XI.pdf) - CBSE (PDF)
+
+
+## ● Nursing
+
+- [Nursing as Caring: A Model for Transforming Practice (1993)](https://www.gutenberg.org/ebooks/42988) - Boykin and Schoenhofer
+
+
+## ● Mechanical engineering and machinery (includes Energy Conservation)
+
+- [Climate Change and the Oil Industry (2003)](https://unglue.it/work/138838/) - Jon Birger Skjaerseth and Tora Skodvin
+- [Our Car as Power Plant (2014)](https://unglue.it/work/129373/) - Ad van Wijk and Leendert Verhoef 
+- [Sustainable Energy - without the hot air (2009)](https://unglue.it/work/140777/) - David J. C. MacKay
+- [Understanding the Global Energy Crisis (2014)](https://unglue.it/work/136212/) - Eugene D. Coyle and Richard A. Simmons
+
+
+## ● Chemical Technology
+
+- [Acids, Alkalis and Salts (1919)](https://www.gutenberg.org/ebooks/50552) - George Henry Joseph Adlam
+- [Creative Chemistry: Descriptive of Recent Achievements in the Chemical (1919)](https://www.gutenberg.org/ebooks/17149) - Edwin E. Slossan
+- [Pyrotechnics: The History and Art of Firework Making (1918)](https://www.gutenberg.org/cache/epub/64922/pg64922-images.html) - Alan St. H. Brock
+
+
 
 # ✨️More links coming tomorrow for way more subjects and information!
 ---
