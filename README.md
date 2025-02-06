@@ -1,6 +1,6 @@
 # ☣️ Apocalypse
 
-📚 A curated collection of essential knowledge for survival, medicine, science, history, and language learning. This repository links to publicly available PDF resources to help individuals prepare for, survive, and rebuild in times of crisis or global disruption. Browse through categories like survival, medical knowledge, and more—ready to help you thrive when the modern world may no longer be accessible.
+📚 A 100% free curated collection of essential knowledge for survival, medicine, science, history, and language learning. This repository links to publicly available PDF resources to help individuals prepare for, survive, and rebuild in times of crisis or global disruption. Browse through categories like survival, medical knowledge, and more—ready to help you thrive when the modern world may no longer be accessible.
 
 **🚩 Disclaimer**: I do not own or host any of the linked PDFs. These are freely available resources found on the internet, and I am not responsible for their content.
 
