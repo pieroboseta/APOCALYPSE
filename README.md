@@ -52,7 +52,7 @@
 - [Where There Is No Doctor](https://annas-archive.li/md5/37fc1495bdf65ef3f4575edbb061a11c) [David Werner]
 
 
-## 🔬 Science  
+## 🎓 Education
 **Scientific books and textbooks on subjects like physics, biology, chemistry, and more.** 
 
 ### 🧠 Psychology
@@ -175,7 +175,7 @@
 - [Pyrotechnics: The History and Art of Firework Making (1918)](https://www.gutenberg.org/cache/epub/64922/pg64922-images.html) - Alan St. H. Brock
 
 ------
-###### The Science section was mostly taken and inspired by these pages, huge thanks to them! [EbookFoundation / free-science-books](https://github.com/EbookFoundation/free-science-books/blob/master/free-science-books.md?plain=1) & [Rafiquzzaman420 / Math-Books](https://github.com/Rafiquzzaman420/Math-Books/tree/main)
+###### The Education section was mostly taken and inspired by these pages, huge thanks to them! [EbookFoundation / free-science-books](https://github.com/EbookFoundation/free-science-books/blob/master/free-science-books.md?plain=1) & [Rafiquzzaman420 / Math-Books](https://github.com/Rafiquzzaman420/Math-Books/tree/main)
 ------
 
 
