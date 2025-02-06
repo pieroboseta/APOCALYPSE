@@ -160,7 +160,7 @@
 - [Nursing as Caring: A Model for Transforming Practice (1993)](https://www.gutenberg.org/ebooks/42988) - Boykin and Schoenhofer
 
 
-### 🤖 Mechanical engineering and machinery (includes Energy Conservation)
+### 🤖 Mechanical engineering/machinery
 
 - [Climate Change and the Oil Industry (2003)](https://unglue.it/work/138838/) - Jon Birger Skjaerseth and Tora Skodvin
 - [Our Car as Power Plant (2014)](https://unglue.it/work/129373/) - Ad van Wijk and Leendert Verhoef 
@@ -173,10 +173,6 @@
 - [Acids, Alkalis and Salts (1919)](https://www.gutenberg.org/ebooks/50552) - George Henry Joseph Adlam
 - [Creative Chemistry: Descriptive of Recent Achievements in the Chemical (1919)](https://www.gutenberg.org/ebooks/17149) - Edwin E. Slossan
 - [Pyrotechnics: The History and Art of Firework Making (1918)](https://www.gutenberg.org/cache/epub/64922/pg64922-images.html) - Alan St. H. Brock
-
-------
-###### The Education section was mostly taken and inspired by these pages, huge thanks to them! [EbookFoundation / free-science-books](https://github.com/EbookFoundation/free-science-books/blob/master/free-science-books.md?plain=1) & [Rafiquzzaman420 / Math-Books](https://github.com/Rafiquzzaman420/Math-Books/tree/main)
-------
 
 
 # ✨️More links coming soon!
@@ -218,6 +214,11 @@ If you would like to contribute to this repository, or if you have suggestions f
 ## 📜 Credits  
 
 Special thanks to all contributors who have shared valuable resources.
+
+The Education section was mostly taken and inspired by these pages, huge thanks to them!  
+[EbookFoundation / free-science-books](https://github.com/EbookFoundation/free-science-books/blob/master/free-science-books.md?plain=1)  
+[Rafiquzzaman420 / Math-Books](https://github.com/Rafiquzzaman420/Math-Books/tree/main)  
+
 
 ## 📏 Sample 
 `- [Title of Book](link) [Author]`
