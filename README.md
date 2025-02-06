@@ -8,7 +8,7 @@
 
 # 🗂️ All Categories
 
-## 🧠 Knowledge  
+# 🧠 Knowledge  
 **Books that provide general knowledge, including guides and encyclopedias.**  
 - [Dictionary of Symbols](https://ia801204.us.archive.org/35/items/DictionaryOfSymbols/Dictionary%20of%20Symbols.pdf) [J.E.Cirlot]
 - [Encyclopedia of Scientiﬁc Principles, Laws, and Theories 2](https://annas-archive.org/md5/78a91d25c4c627a2bdd2ddca6563d609) [Robert E. Krebs]
@@ -25,7 +25,7 @@
 - [The World Book Encyclopedia - A 1](https://annas-archive.org/md5/e66dfbd8dbf2da4982ada526140ad8fe) [John Morris Jones]
 
 
-## 🗣️ Languages  
+# 🗣️ Languages  
 **Language learning books and Dictionaries.** 
 - [The Oxford dictionary of current English](https://annas-archive.org/md5/f1a8c0bcdde3731b841906fd12c619be) [Della Thompson]
 - [Visual English dictionary](https://annas-archive.org/md5/6c1266bdad9b4771fe45fd87ab82048e) [Jean-Claude Corbeil, Ariane Archambault]
@@ -34,7 +34,7 @@
 - [German English Bilingual Visual Dictionary](https://annas-archive.org/md5/1a18d4f7d0ccd22233a967e07aba71ec) [DK]
 
 
-## ⚔️ Survival  
+# ⚔️ Survival  
 **Books that cover survival tactics, first aid, and preparing for disaster scenarios.**  
 - [100 Deadly Skills](https://annas-archive.org/md5/bfb88f224654cfbf8f256bd1a162a88f) [Clint Emerson] 
 - [100 Deadly Skills: Combat Edition](https://annas-archive.org/md5/ef95cf498af6361117721291de325e5e)  [Clint Emerson]  
@@ -50,10 +50,10 @@
 - [Where There Is No Doctor](https://annas-archive.li/md5/37fc1495bdf65ef3f4575edbb061a11c) [David Werner]
 
 
-## 🔬 Science  
+# 🔬 Science  
 **Scientific books and textbooks on subjects like physics, biology, chemistry, and more.** 
 
-### ● Psychology
+## ● Psychology
 Taken by: EbookFoundation / free-science-books  
 Link: https://github.com/EbookFoundation/free-science-books/blob/master/free-science-books.md?plain=1
 
@@ -67,7 +67,7 @@ Link: https://github.com/EbookFoundation/free-science-books/blob/master/free-sci
 
 
 
-### ● Mathematics
+## ● Mathematics
 Taken By: Rafiquzzaman420 / Math-Books    
 Link: https://github.com/Rafiquzzaman420/Math-Books/tree/main
 
@@ -84,7 +84,7 @@ Link: https://github.com/Rafiquzzaman420/Math-Books/tree/main
 
 
 
-### ● Astronomy
+## ● Astronomy
 
 - [A Short History of Astronomy (1898)](https://ia601408.us.archive.org/16/items/shorthistoryofas025511mbp/shorthistoryofas025511mbp.pdf) - Arthur Berry (PDF)
 - [Astronomy (OpenStax)](https://openstax.org/details/books/astronomy) - Andrew Fraknoi et al. (PDF)
@@ -93,7 +93,7 @@ Link: https://github.com/Rafiquzzaman420/Math-Books/tree/main
 - [Archaeology, Anthropology, and Interstellar Communication (2014)](https://unglue.it/work/139785/) - Douglas A. Vakoch
 
 
-### ● Pysics
+## ● Pysics
 
 - [A Text Book for High School Students Studying Physics](http://ftp.igh.cnrs.fr/pub/nongnu//fhsst/Physics_Grade_10-12.pdf) - FHSST Authors (PDF)
 - [An introduction to Physics](http://eacpe.org/content/uploads/2014/01/PHYSICS-101.pdf) - Pervez Hoodbhoy (PDF)
@@ -107,7 +107,7 @@ Link: https://github.com/Rafiquzzaman420/Math-Books/tree/main
 - [The Feynman Lectures on Physics](http://feynmanlectures.caltech.edu) - Richard P. Feynmann
 
 
-### ● Chemistry
+## ● Chemistry
 
 - [A Dictionary of Chemistry (1777)](https://unglue.it/work/140195/) - Pierre Joseph Macquer and James Keir
 - [Biochemistry from a phenomenological point of view](http://www.louisbolk.org/downloads/1282.pdf) - Christa van Tellingen (PDF)
