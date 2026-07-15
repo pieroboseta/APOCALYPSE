@@ -25,6 +25,7 @@
 - [The World Book Encyclopedia - A 1](https://annas-archive.org/md5/e66dfbd8dbf2da4982ada526140ad8fe) [John Morris Jones]
 - [The Times Complete History of the World(Part 1)](https://annas-archive.li/md5/c1605579ce4a1280eb1647fe1896d926) [Richard Overy]
 - [The Elements Book](https://annas-archive.li/md5/905c5fabadf2045a6037f76307818494) [Tom Jackson]
+- [The Book: The Ultimate Guide To Rebuilding Civilization]([https://annas-archive.li/md5/905c5fabadf2045a6037f76307818494](https://oceanofpdf.com/authors/timur-kadyrov/pdf-the-book-the-ultimate-guide-to-rebuilding-civilization-download/)) [Timur Kadyrov]
 
 
 ## 🗣️ Languages  
