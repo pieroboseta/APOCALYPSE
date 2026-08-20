@@ -176,6 +176,11 @@
 - [Pyrotechnics: The History and Art of Firework Making (1918)](https://www.gutenberg.org/cache/epub/64922/pg64922-images.html) - Alan St. H. Brock
 
 
+### 📚 Survivor Library
+
+- [How to survive when the technology doesn't](https://www.survivorlibrary.com/index.php/main-category-index/) - Rocky Rawlins 
+
+
 # ✨️More links coming soon!
 ---
 
